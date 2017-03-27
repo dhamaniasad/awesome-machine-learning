@@ -18,6 +18,7 @@
 
 ## Frameworks
 * [Keras](https://keras.io) - Higher level abstraction library for TensorFlow and Theano, focusing on ease of use and fast prototyping
+* [scikit-learn](http://scikit-learn.org/stable/) - Feature rich Machine learning library for Python with simple APIs
 
 ## Libraries
 * [Face Recognition](https://github.com/ageitgey/face_recognition) - Worlds simplest face detection and recognition library for Python
