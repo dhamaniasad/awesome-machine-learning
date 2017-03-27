@@ -6,3 +6,6 @@
 
 ## Visualization
 * [Quiver](https://github.com/keplr-io/quiver) - Interactive convnet features visualization for Keras
+
+## Libraries
+* [Keras](https://keras.io) - Higher level abstraction library for TensorFlow and Theano, focusing on ease of use and fast prototyping
