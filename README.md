@@ -31,4 +31,5 @@
 
 ## Publications
 * [Distill](http://distill.pub/) - A publication for interactive and visual machine learning papers, instead of PDFs
-* [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) - An easier interface for Arxiv serving research papers on ML. Search, sort, and find popular papers.
+* [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) - An easier interface for Arxiv serving research papers on ML Search, sort, and find popular papers
+* [GitXiv](http://www.gitxiv.com/) - Collaborative Open Computer Science. Pairs the latest ML research with its open source implementation 
