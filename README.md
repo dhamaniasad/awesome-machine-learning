@@ -9,6 +9,7 @@
 - [Frameworks](#frameworks) - Frameworks for machine learning which can be used to make your own ML projects
 - [Libraries](#libraries) - Machine learning libraries that do one thing and do it well
 - [Learning](#learning) - Resources to help you learn more about machine learning
+- [Examples](#examples) - Example machine learning projects and implementations to look at while learning
 
 
 ## Visualization
@@ -21,4 +22,7 @@
 * [Face Recognition](https://github.com/ageitgey/face_recognition) - Worlds simplest face detection and recognition library for Python
 
 ## Learning
-* [Machine Learning is Fun Series](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) - The world's easiest introduction to Machine Learning. A guide for anyone who's curious about ML but has no idea where to start.
+* [Machine Learning is Fun Series](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) - The world's easiest introduction to Machine Learning. A guide for anyone who's curious about ML but has no idea where to start
+
+## Examples
+* [MLAlgorithms](https://github.com/rushter/MLAlgorithms) - A collection of minimal and clean implementations of machine learning algorithms in Python, when you want to learn internals of ML algorithms or implement them from scratch
