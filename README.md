@@ -4,7 +4,7 @@
 
 > A collection of awesome Machine Learning resources
 
-## Contents
+# Contents
 - [Visualization](#visualization) - Tools which let you visualize machine learning models to help you understand them better
 - [Frameworks](#frameworks) - Frameworks for machine learning which can be used to make your own ML projects
 - [Libraries](#libraries) - Machine learning libraries that do one thing and do it well
