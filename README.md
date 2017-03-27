@@ -23,6 +23,7 @@
 
 ## Libraries
 * [Face Recognition](https://github.com/ageitgey/face_recognition) - Worlds simplest face detection and recognition library for Python
+* [LightFM](https://github.com/lyst/lightfm) - Python implementation of a number of popular recommendation algorithms
 
 ## Learning
 * [Machine Learning is Fun Series](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) - The world's easiest introduction to Machine Learning. A guide for anyone who's curious about ML but has no idea where to start
