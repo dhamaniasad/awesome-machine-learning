@@ -10,6 +10,7 @@
 - [Libraries](#libraries) - Machine learning libraries that do one thing and do it well
 - [Learning](#learning) - Resources to help you learn more about machine learning
 - [Examples](#examples) - Example machine learning projects and implementations to look at while learning
+- [Publications](#research-publications) - Publications for papers on machine learning
 
 
 ## Visualization
@@ -26,3 +27,7 @@
 
 ## Examples
 * [MLAlgorithms](https://github.com/rushter/MLAlgorithms) - A collection of minimal and clean implementations of machine learning algorithms in Python, when you want to learn internals of ML algorithms or implement them from scratch
+
+## Publications
+* [Distill](http://distill.pub/) - A publication for interactive and visual machine learning papers, instead of PDFs
+* [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) - An easier interface for Arxiv serving research papers on ML. Search, sort, and find popular papers.
