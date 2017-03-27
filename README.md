@@ -5,12 +5,13 @@
 > A collection of awesome Machine Learning resources
 
 # Table of Contents
-- [Visualization](#visualization) - Tools which let you visualize machine learning models to help you understand them better
-- [Frameworks](#frameworks) - Frameworks for machine learning which can be used to make your own ML projects
-- [Libraries](#libraries) - Machine learning libraries that do one thing and do it well
-- [Learning](#learning) - Resources to help you learn more about machine learning
-- [Examples](#examples) - Example machine learning projects and implementations to look at while learning
-- [Publications](#publications) - Publications for papers on machine learning
+- [Visualization](#visualization) - Tools which let you visualize Machine Learning models to help you understand them better
+- [Frameworks](#frameworks) - Frameworks for Machine Learning which can be used to make your own ML projects
+- [Libraries](#libraries) - Machine Learning libraries that do one thing and do it well
+- [Learning](#learning) - Resources to help you learn more about Machine Learning
+- [Examples](#examples) - Example Machine Learning projects and implementations to look at while learning
+- [Publications](#publications) - Publications for papers on Machine Learning
+- [YouTube](#youtube) - YouTube channels and playlists on Machhine Learning
 
 
 ## Visualization
@@ -33,3 +34,6 @@
 * [Distill](http://distill.pub/) - A publication for interactive and visual machine learning papers, instead of PDFs
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) - An easier interface for Arxiv serving research papers on ML Search, sort, and find popular papers
 * [GitXiv](http://www.gitxiv.com/) - Collaborative Open Computer Science. Pairs the latest ML research with its open source implementation 
+
+## YouTube
+* [Machine Learning Recipes](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) - Google Developers Machine Learning Recipes playlist. Covers basic concepts in easy to follow format
