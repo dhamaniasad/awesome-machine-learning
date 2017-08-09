@@ -12,6 +12,7 @@
 - [Examples](#examples) - Example Machine Learning projects and implementations to look at while learning
 - [Publications](#publications) - Publications for papers on Machine Learning
 - [YouTube](#youtube) - YouTube channels and playlists on Machhine Learning
+- [Articles](#articles) - Must read articles on AI/Machine Learning
 
 
 ## Visualization
@@ -38,3 +39,7 @@
 
 ## YouTube
 * [Machine Learning Recipes](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) - Google Developers Machine Learning Recipes playlist. Covers basic concepts in easy to follow format
+
+
+## Articles
+* [https://waitbutwhy.com/2015/01/artificial-intelligence-revolution.html](Wait But Why AI Article) - One of _the_ best reads on AI out there
