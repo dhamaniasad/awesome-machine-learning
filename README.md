@@ -42,4 +42,4 @@
 
 
 ## Articles
-* [https://waitbutwhy.com/2015/01/artificial-intelligence-revolution.html](Wait But Why AI Article) - One of _the_ best reads on AI out there
+* [Wait But Why AI Article](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution.html) - One of _the_ best reads on AI out there
