@@ -13,6 +13,7 @@
 - [Publications](#publications) - Publications for papers on Machine Learning
 - [YouTube](#youtube) - YouTube channels and playlists on Machhine Learning
 - [Articles](#articles) - Must read articles on AI/Machine Learning
+- [Courses](#courses) - Courses to learn more about AI
 
 
 ## Visualization
@@ -43,3 +44,7 @@
 
 ## Articles
 * [Wait But Why AI Article](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution.html) - One of _the_ best reads on AI out there
+
+
+## Courses
+* [http://course.fast.ai/](Deep Learning for Coders) - Learn how to build state of the art models without needing graduate-level math—but also without dumbing anything down. Oh and one other thing... it's totally free!
