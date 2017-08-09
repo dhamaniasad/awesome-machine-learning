@@ -47,4 +47,4 @@
 
 
 ## Courses
-* [http://course.fast.ai/](Deep Learning for Coders) - Learn how to build state of the art models without needing graduate-level math—but also without dumbing anything down. Oh and one other thing... it's totally free!
+* [Deep Learning for Coders](http://course.fast.ai/) - Learn how to build state of the art models without needing graduate-level math—but also without dumbing anything down. Oh and one other thing... it's totally free!
