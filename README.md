@@ -49,6 +49,7 @@
 ## Articles
 * [Wait But Why AI Article](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution.html) - One of _the_ best reads on AI out there
 * [Neuralink](waitbutwhy.com/2017/04/neuralink.html) - Neuralink, the future of AI merged with the brain. _MUST READ_
+* [A visual introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - A very cool visual introduction to machine learning to help you develop an intuition for how things work
 
 
 ## Courses
