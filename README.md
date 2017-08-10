@@ -41,6 +41,7 @@
 ## YouTube
 * [Machine Learning Recipes](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) - Google Developers Machine Learning Recipes playlist. Covers basic concepts in easy to follow format
 * [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU) - Awesome video about the future of jobs with AI
+* [MarI/O](https://www.youtube.com/watch?v=qv6UVOQ0F44) - An AI learns to play Super Mario from scratch through Genetic Algorithms
 
 
 ## Articles
