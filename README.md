@@ -31,6 +31,7 @@
 * [Machine Learning is Fun Series](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) - The world's easiest introduction to Machine Learning. A guide for anyone who's curious about ML but has no idea where to start
 * [Have fun with Machine Learning](https://github.com/humphd/have-fun-with-machine-learning) - An **absolute beginner's guide** to Machine Learning and Image Classification with Neural Networks
 * [Learn Python](https://www.learnpython.org/) - A site that teaches you Python interactively
+* [Learn Python the Hard Way](https://learnpythonthehardway.org/) - One of the best sites to learn programming in Python
 
 ## Examples
 * [MLAlgorithms](https://github.com/rushter/MLAlgorithms) - A collection of minimal and clean implementations of machine learning algorithms in Python, when you want to learn internals of ML algorithms or implement them from scratch
