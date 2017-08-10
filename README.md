@@ -43,6 +43,7 @@
 * [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU) - Awesome video about the future of jobs with AI
 * [MarI/O](https://www.youtube.com/watch?v=qv6UVOQ0F44) - An AI learns to play Super Mario from scratch through Genetic Algorithms
 * [Viv](https://www.youtube.com/watch?v=MI07aeZqeco) - Viv, the future of Siri-like AIs. Generates programs on the fly using your query
+* [Deep Learning Simplified](https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu) - A series of videos that aims to simplify common deep learning concepts in an easy to understand manner
 
 
 ## Articles
